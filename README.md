@@ -54,10 +54,6 @@ To install the required dependencies, run:
 pip install -r requirements.txt
 ```
 
-## License
-
-This project is licensed under the CC BY-NC-ND 4.0 license. For more information, see the [LICENSE](LICENSE) file.
-
 ## Citation
 
 If you use the dataset or code, please cite the following paper:
